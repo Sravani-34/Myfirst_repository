@@ -3,7 +3,7 @@ switch(weekname)
 {
     case "sunday":console.log("sunday");
     break;
-    case "MONDAY":console.log("MONday");
+    case "MONDAY":console.log("Monday");
     break;
     case "tusday":console.log("tusday");
     break;
