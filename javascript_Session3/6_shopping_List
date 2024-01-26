@@ -1,0 +1,4 @@
+var arr=["Rice","Bread","curd","Milk"]
+console.log(arr);
+arr.push("Cheese");
+console.log(arr);
