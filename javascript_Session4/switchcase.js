@@ -1,9 +1,9 @@
-let weekname="tusda";
+let weekname="tusday";
 switch(weekname)
 {
     case "sunday":console.log("sunday");
     break;
-    case "MONDAY":console.log("MONdayyy");
+    case "MONDAY":console.log("MONday");
     break;
     case "tusday":console.log("tusday");
     break;
