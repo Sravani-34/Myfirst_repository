@@ -1,10 +1,10 @@
 //Finding Length of String
 
 //Example
-var firstNameLength = 1;
+
 var firstName = "Sravani";
 
-firstNameLength = firstName.length;
+var firstNameLength = firstName.length;
 
 console.log(firstNameLength);
 
